@@ -1,2 +1,1 @@
-# T-com
-collage project
+# Recommendation_System_for_E-commerce
