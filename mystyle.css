@@ -112,7 +112,9 @@ body{
     height: 23vh;
     width: 20vh;
     background-color: rgb(30, 30, 33);
+    /* background-color: rgba(255,220,0,255); */
     border: 1.5px solid white;
+    /* border: 1.5px solid black; */
     margin: .5vw;
     min-width: 23vw;
     min-height: 22vw;
